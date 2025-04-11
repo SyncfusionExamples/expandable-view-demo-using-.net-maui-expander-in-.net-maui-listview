@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExpanderMAUI
+namespace ExpanderMaui
 {
     public class ViewModel : INotifyPropertyChanged
     {
@@ -25,7 +25,7 @@ namespace ExpanderMAUI
         public ViewModel()
         {
             ContactsInfo = new ObservableCollection<Contact>();
-            Assembly assembly = typeof(ExpanderMAUI.MainPage).GetTypeInfo().Assembly;
+            Assembly assembly = typeof(ExpanderMaui.MainPage).GetTypeInfo().Assembly;
             int i = 0;
             foreach (var cusName in CustomerNames)
             {

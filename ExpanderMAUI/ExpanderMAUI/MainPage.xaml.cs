@@ -1,4 +1,4 @@
-﻿namespace ExpanderMAUI
+﻿namespace ExpanderMaui
 {
     public partial class MainPage : ContentPage
     {
