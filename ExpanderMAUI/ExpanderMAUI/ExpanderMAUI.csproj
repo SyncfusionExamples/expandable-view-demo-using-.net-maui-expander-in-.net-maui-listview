@@ -107,7 +107,7 @@
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="$(MauiVersion)" />
 		<PackageReference Include="Syncfusion.Maui.Expander" Version="*" />
-		<PackageReference Include="Syncfusion.Maui.ListView" Version="29.1.37" />
+		<PackageReference Include="Syncfusion.Maui.ListView" Version="*" />
 	</ItemGroup>
 
 </Project>
