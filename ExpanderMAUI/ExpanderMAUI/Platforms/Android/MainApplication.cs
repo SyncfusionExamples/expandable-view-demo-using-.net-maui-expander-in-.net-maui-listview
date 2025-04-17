@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace ExpanderMAUI
+namespace ExpanderMaui
 {
     [Application]
     public class MainApplication : MauiApplication
